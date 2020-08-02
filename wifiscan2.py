@@ -1,3 +1,5 @@
+### LIBRARIES ###
+
 import os
 import datetime
 import time
@@ -5,7 +7,7 @@ import sys
 import csv
 import math
 
-#inputs
+### INPUTS ###
 run=240 #minutes to scan (240 -> 4 hours; 180 -> 3 hours)
 freq=5 #seconds after next scan 
 out='/home/pi/DATA/miercoles28/0test' #output folder name
